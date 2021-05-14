@@ -130,6 +130,14 @@ order by Revenue desc
 
 /* Q11: Produce a report of members and who recommended them in alphabetic surname,firstname order */
 
+select distinct concat_ws(' ',m.surname,m.firstname) as Member, Recommender
+from Members as m
+inner join
+	(select concat_ws(' ', m1.surname,m1.firstname) as Recommender, m2.recommendedby from Members as m1
+		right join Members as m2 on m2.recommendedby=m1.memid
+		where m2.recommendedby is not null and m1.memid != 0) as sub
+on m.recommendedby = sub.recommendedby
+order by Member
 
 /* Q12: Find the facilities with their usage by member, but not guests */
 
