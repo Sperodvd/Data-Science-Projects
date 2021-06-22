@@ -4,34 +4,28 @@ This Repository contains all of Data science project performed as part of Spring
 
 ## Table of Contents
 
-1. [API Mini project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/API/api_data_wrangling_mini_project.ipynb): 
+1. [API Mini project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/API/api_data_wrangling_mini_project.ipynb): Pull equities Data from Frankfurt Stock Exchange(FSE) utlizing Quandl API.
+**Core skills** 
+- JSON structure
+- Pull requests, API access
 2. [SQL Mini project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/SQL/SQLTasks%20Tier%202.sql): Project tackling a series of SQL challenges on a database and connecting local instance of the database utilizing Python.
-**Core skills:** SQL, MySQL, PHPMyAdmin, SQLite
+**Core skills** 
+- SQL, MySQL, PHPMyAdmin, SQLite
+
+### Statistics Analysis: Advanced Statistics and Hypothesis Testing
+3. [Frequentist Inference: A](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20Frequentist%20Inference/Frequentist%20Case%20Study/Frequentist%20Inference%20Case%20Study%20-%20Part%20A%20(3).ipynb): Applying statistical concepts utilizing Python.
+**Core skills**
+- Sampling and calculating probabilities from normal distribution
+- Estimation of Standard deviation from sample population parameter
+- Central Limit Theorem
+- Critical values and Confidence intervals
+
+4. [Frequentist Inference: B](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20Frequentist%20Inference/Frequentist%20Case%20Study/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb): Frequentist hypothesis testing using Hospital medical charges.
+**Core skills**
+- Testing using t-test
+- Central limit Theorem to apply frequentist techniques
+- t-statistics/Hypothesis testing utilzing 'scipy.stats'
+
+5. [Apple store Apps project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Apps%20Project/Springboard%20Apps%20project%20-%20Tier%203%20-%20Complete.ipynb): 
 
 
-**Note**: If forking and cloning a repo is new to you and/or github is new to you then it is strongly suggested to use [GitHub desktop](https://desktop.github.com/) and follow instructions in the docs [here](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop).
-
-From https://github.com/springboard-curriculum/DataScienceGuidedCapstone press the green "code" dropdown and then press "Open with GitHub Desktop". This will fork the springboard repository into your own github account and then clone that fork to your local machine - it is in here that you will do your work and push your changes back to your fork of the repo in your own github account. 
-
-You will find the notebooks in the Notebooks/ directory. 
-
-You will find instructions on how to complete and submit each step of the Guided Capstone in the course materials. Each subunit will focus on one step of the Capstone, corresponding to a step of the Data Science Method. Find the Jupyter Notebook corresponding to the subunit you are working on, and open it. Follow along as you are guided through the work, and fill in the blanks!
-
-When you are done with the notebook, push the changes to your personal GitHub account.
-
-## Pipenv
-
-The `Pipefile` has all the python dependencies and requirements you should need. So you can use [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/) is you want to create a seperate python enviornment for this project. 
-
-To install pipenv see [here](https://pipenv-fork.readthedocs.io/en/latest/#install-pipenv-today).
-
-To create the env and install the required libraries (once you have pipenv installed) you can just do:
-```
-pipenv install
-```
-
-Then to activate the env and launch jupyter from this env you can do something like the below two commands:
-```
-pipenv shell
-jupyter lab
-```
