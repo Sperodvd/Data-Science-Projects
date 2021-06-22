@@ -76,7 +76,7 @@ Utilizing Random Forest Classifier and South Korean cases of COVID-19 dataset to
 
 **Core skills**
   - Random Forest Algorithm
-  - Classification report|Confusion Matrix|F1-score
+  - Classification report | Confusion Matrix | F1-score
   - ROC curve, AUC score
   - Feature importances
 
