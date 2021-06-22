@@ -1,7 +1,6 @@
-# DataScienceGuidedCapstone
+# Data Science Projects
 
-Hello students!
-Welcome to the Data Science Guided Capstone! 
+This Repository contains all of Data science project covered from Springboard Inc's Data Science Specialization
 
 ## Getting Started
 
