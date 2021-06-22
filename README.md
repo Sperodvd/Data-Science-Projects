@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This Repository contains all of Data science project covered from Springboard Inc's Data Science Specialization
+This Repository contains all of Data science project performed as part of Springboard Inc's Data Science Curriculum
 
 ## Getting Started
 
