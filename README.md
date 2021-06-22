@@ -51,6 +51,6 @@ Exploratory data analysis (EDA) and regression analysis to predict alcohol level
 **Core skills**
   - Visualizing correlations: Seaborn pairplots & heat-map
   - Linear Regression|Ordinary Least Squares(OLS)|Multiple Linear Regression
-  - Model evaluation with sum-of-squares, $R^2$, mean squared error and F-statistic
+  - Model evaluation with sum-of-squares, R<sup>2</sup>, mean squared error and F-statistic
 
 
