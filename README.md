@@ -60,3 +60,30 @@ Project focusing on the mathmatics behind Logistic Regression in python envirome
   - Logistic Regression utilizing `sklearn`
   - Using cross-validation and `GridSearchCV` to optimize Hyperparameter tuning
   - Plotting visual representation of discriminative classifier
+
+### 8. [Decision Tree models](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20RR%20diner%20Coffee/Springboard%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20-%20Tier%203.ipynb):
+Building multiple decision tree models to predict how many units of Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
+
+**Core skills**
+  - Entropy|Gini impurity models
+  - One-hot encoding
+  - model evaluation
+  - Accuracy, Precision and Recall score
+  - Understanding and restricting the maximum depth of the tree
+
+### 9. [Random Forest](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20Random%20Forest/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb):
+Utilizing Random Forest Classifier and South Korean cases of COVID-19 dataset to evaluate and predict the 'state' of the patient.
+
+**Core skills**
+  - Random Forest Algorithm
+  - Classification report|Confusion Matrix|F1-score
+  - ROC curve, AUC score
+  - Feature importances
+
+### 10. [Gradient Boosting](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20Gradient%20Boosting/Gradient%20Boosting%20Case%20Study.ipynb):
+Understanding of Gradient Boosted Regrssion Trees and applying the algorithm to classification problems.
+
+**Core skills**
+  - Scaling Data-set with Standard Scaler
+  - Using `sklearn.tree` Decision Tree Regressor
+  - Using `sklearn.ensemble` Gradient Boosting Classifier
