@@ -33,7 +33,7 @@ Frequentist hypothesis testing using Hospital medical charges.  <br>
 **Core skills**
   - Testing using t-test
   - Central limit Theorem to apply frequentist techniques
-  - t-statistics/Hypothesis testing utilzing 'scipy.stats'
+  - t-statistics/Hypothesis testing utilzing `scipy.stats`
 
 ### 5. [Apple store Apps project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Apps%20Project/Springboard%20Apps%20project%20-%20Tier%203%20-%20Complete.ipynb): 
 
