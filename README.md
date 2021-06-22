@@ -50,7 +50,7 @@ Exploratory data analysis (EDA) and regression analysis to predict alcohol level
 
 **Core skills**
   - Visualizing correlations: `Seaborn` Pairplots & heat-map
-  - Linear Regression|Ordinary Least Squares(OLS)|Multiple Linear Regression
+  - Linear Regression | Ordinary Least Squares(OLS) | Multiple Linear Regression
   - Model evaluation with sum-of-squares, R<sup>2</sup>, mean squared error and F-statistic
 
 ### 7. [Logistic Regression](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20logistic%20Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb):
@@ -65,7 +65,7 @@ Project focusing on the mathmatics behind Logistic Regression in python envirome
 Building multiple decision tree models to predict how many units of Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
 
 **Core skills**
-  - Entropy|Gini impurity models
+  - Entropy | Gini impurity models
   - One-hot encoding
   - model evaluation
   - Accuracy, Precision and Recall score
