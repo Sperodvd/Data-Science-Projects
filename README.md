@@ -49,8 +49,14 @@ Using integral statistics concepts to evaluate whether difference between the me
 Exploratory data analysis (EDA) and regression analysis to predict alcohol levels in Red wine Quality data-set.
 
 **Core skills**
-  - Visualizing correlations: Seaborn pairplots & heat-map
+  - Visualizing correlations: `Seaborn` Pairplots & heat-map
   - Linear Regression|Ordinary Least Squares(OLS)|Multiple Linear Regression
   - Model evaluation with sum-of-squares, R<sup>2</sup>, mean squared error and F-statistic
 
+### 7. [Logistic Regression](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20logistic%20Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb):
+Project focusing on the mathmatics behind Logistic Regression in python enviroment to determine binary classification problem of Sex based on Height and Weight.
 
+**Core skills**
+  - Logistic Regression utilizing `sklearn`
+  - Using cross-validation and `GridSearchCV` to optimize Hyperparameter tuning
+  - Plotting visual representation of discriminative classifier
