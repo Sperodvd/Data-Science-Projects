@@ -35,6 +35,22 @@ Frequentist hypothesis testing using Hospital medical charges.  <br>
   - Central limit Theorem to apply frequentist techniques
   - t-statistics/Hypothesis testing utilzing `scipy.stats`
 
-### 5. [Apple store Apps project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Apps%20Project/Springboard%20Apps%20project%20-%20Tier%203%20-%20Complete.ipynb): 
+### 5. [Apple store Apps project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Apps%20Project/Springboard%20Apps%20project%20-%20Tier%203%20-%20Complete.ipynb):
+Using integral statistics concepts to evaluate whether difference between the mean rating of Google Play apps and mean rating of Apple Store apps is statistically significant.
+
+**Core skills**
+  - Descriptive/Predictive statistics
+  - Hypothesis formulation
+  - Permutation test
+  - Evaluating models
+
+## Supervised Learning
+### 6. [Linear Regression](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20Linear%20Regression/11.4.1%20Case%20Study%20-%20Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb):
+Exploratory data analysis (EDA) and regression analysis to predict alcohol levels in Red wine Quality data-set.
+
+**Core skills**
+  - Visualizing correlations: Seaborn pairplots & heat-map
+  - Linear Regression|Ordinary Least Squares(OLS)|Multiple Linear Regression
+  - Model evaluation with sum-of-squares, R^2, mean squared error and F-statistic
 
 
