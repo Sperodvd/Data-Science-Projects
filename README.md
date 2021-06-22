@@ -4,8 +4,9 @@ This Repository contains all of Data science project performed as part of Spring
 
 ## Table of Contents
 
-1. [SQL Mini project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/SQL/SQLTasks%20Tier%202.sql): Project tackling a series of SQL challenges on a database and connecting local instance of the database utilizing Python
-Core skills: SQL, MySQL, PHPMyAdmin, SQLite
+1. [SQL Mini project](https://github.com/Sperodvd/Data-Science-Projects/blob/master/SQL/SQLTasks%20Tier%202.sql): Project tackling a series of SQL challenges on a database and connecting local instance of the database utilizing Python.
+####Core skills: 
+SQL, MySQL, PHPMyAdmin, SQLite
 
 Start by forking this repository to your personal GitHub account and cloning the fork to your local machine. 
 
