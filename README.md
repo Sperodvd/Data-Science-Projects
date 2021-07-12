@@ -87,3 +87,11 @@ Understanding of Gradient Boosted Regrssion Trees and applying the algorithm to 
   - Scaling Data-set with Standard Scaler
   - Using `sklearn.tree` Decision Tree Regressor
   - Using `sklearn.ensemble` Gradient Boosting Classifier
+
+## Unsupervised Learning
+### 11. [Euclidean & Manhattan Distances](https://github.com/Sperodvd/Data-Science-Projects/blob/master/Case%20Study%20-%20Manhattan%20Distance/Euclidean_and_Manhattan_Distances_Case_Study.ipynb):
+Applying and visualizing of Euclidean & Manhattan Distances
+
+**Core skills**
+  - Euclidean Distance
+  - Manhattan Distance
